@@ -1,0 +1,28 @@
+{
+  "name": "bartonlp/rssfeed",
+  "description": "Reads RSS feeds",
+  "version": "dev-master",
+  "license": "MIT",
+  "authors": [
+      {
+          "name": "Barton Phillips",
+          "email": "bartonphillips@gmail.com",
+          "homepage": "http://www.bartonphillips.com"
+      }
+  ],
+  "repositories": [
+      {
+          "type": "git",
+          "url": "https://github.com/bartonlp/rssfeed.git"
+      }
+  ],
+  "require": {
+      "php": ">=5.3"
+  },
+  "minimum-stability": "stable",
+  "autoload" : {
+      "classmap": [
+          "./",
+      ]
+  }    
+}
