@@ -2,6 +2,8 @@
 // Get Information from an RSS feed
 // BLP 2016-06-06 -- This is used in the news.php file to get the SkiHi rss feed.
 
+namespace bartonlp;
+
 class RssFeed {
   private $tdb;
   private $rawdata;
@@ -13,10 +15,10 @@ class RssFeed {
       try {
         $data = @file_get_contents($data);
         if($data === false) {
-          throw new Exception("file_get_contents failed", 5001);
+          throw new \Exception("file_get_contents failed", 5001);
         }
       } catch(Exception $e) {
-        throw new Exception("file_get_contents failed", 5001);
+        throw new \Exception("file_get_contents failed", 5001);
       }
       if($savedata) {
         $this->rawdata = $data;
