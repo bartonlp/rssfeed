@@ -11,7 +11,7 @@ If you do not have composer you can get it at https://getcomposer.org/download/.
 Once you have composer select a directory where you want your repository and enter:
 
 ```bash
-composer require bartonlp/updatesite dev-master
+composer require bartonlp/rssfeed:dev-master
 ```
 
 ## Documentation
