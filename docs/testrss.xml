@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>Main Title</title>
+    <link>http://www.example.com</link>
+    <description>Example description for channel</description>
+    <lastBuildDate>Sat, 03 Dec 2016 19:31:18 +0000</lastBuildDate>
+    <generator>Program Name if any</generator>
+    <item>
+      <title>Example of RSS Feed</title>
+      <link>http://www.example.com/link/</link>
+      <description>
+        Description of this item. All entities should be escaped. Example &lt;test&gt; 
+      </description>
+      <pubDate>Sat, 16 May 2009 17:12:15 +0000</pubDate>
+    </item>
+    <item>
+      <title>Another Example</title>
+      <link>http://www.example.com/link2/</link>
+      <description>Some more stuff</description>
+      <pubDate>Sat, 16 May 2016 17:12:15 +0000</pubDate>
+    </item>
+  </channel>
+</rss>
