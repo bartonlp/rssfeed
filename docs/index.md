@@ -1,4 +1,5 @@
 # RssFeed Class
+[GitHub: https://github.com/bartonlp/rssfeed](https://github.com/bartonlp/rssfeed)
 
 This is a PHP class that can read RSS feeds. A RSS file has an XML format with *item* as the main element. The XML file looks something like this:
 
