@@ -39,7 +39,7 @@ The methods of **RssFeed** are:
 * public function getItem($inx)
 * public function getRawData()
 
-The 'constructor' takes up to three arguments. $data is a string, either a filename or raw data. $isfile is true if the string in $data is a filename and false if it is raw date (defaults to true). $savedate is true if you want to save the raw XML and false if you don't (defaults to false). 
+The 'constructor' takes up to three arguments. $data is a string, either a filename or raw data. $isfile is true if the string in $data is a filename and false if it is raw data (defaults to true). $savedata is true if you want to save the raw XML and false if you don't (defaults to false). 
 
 The 'getDb' method takes not arguments, it returns the array of the *item* tags and their children. You can look at this array with `var_dump($returned)` to find the elements you want to look at.
 
