@@ -100,4 +100,9 @@ If you run this you will see:
 
 ---
 
-## Contact me: [bartonphillips@gmail.com](mailto://bartonphillips@gmail.com)
+## Contact me
+
+Barton Phillips : [mailto://bartonphillips@gmail.com](mailto://bartonphillips@gmail.com)    
+Copyright &copy; 2017 Barton Phillips  
+Project maintained by [bartonlp](https://github.com/bartonlp)
+
