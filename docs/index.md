@@ -103,6 +103,6 @@ If you run this you will see:
 ## Contact me
 
 Barton Phillips : [mailto://bartonphillips@gmail.com](mailto://bartonphillips@gmail.com)    
-Copyright &copy; 2018 Barton Phillips  
+Copyright &copy; 2022 Barton Phillips  
 Project maintained by [bartonlp](https://github.com/bartonlp)
 
